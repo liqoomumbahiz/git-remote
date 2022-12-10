@@ -1,6 +1,3 @@
-[submodule "git-submodule"]
-	path = git-submodule
-	url = git@liqoo-dev:liqoomumbahiz/git-submodule.git
 [submodule "scripts"]
 	path = scripts
 	url = git@liqoo-dev:liqoomumbahiz/git-submodule.git
